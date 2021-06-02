@@ -1,0 +1,20 @@
+[app/ui]
+version = 8.0.3
+modtime = 1622664100.584771000
+
+[app/launcher]
+version = 8.0.3
+modtime = 1622664100.585242000
+
+[indexes/homeassistant]
+owner = admin
+version = 8.0.3
+modtime = 1622664776.847476000
+
+[inputs/http%3A%2F%2Fhomeassistant]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.3
+modtime = 1622664790.368170000
+
